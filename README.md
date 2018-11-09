@@ -2,6 +2,8 @@
 
 ## Introduction
 
+(transferred to GitHub)
+
 ---
 
 The *Common Device Library* (CDL) is supplied as a single library that can handle different types of pen or touch input from Wacom and third-party devices.
