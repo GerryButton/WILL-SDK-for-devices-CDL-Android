@@ -2,7 +2,9 @@
 
 ## Introduction
 
-(transferred to GitHub)
+- transferred to GitHub
+- SSH updated
+
 
 ---
 
@@ -11,7 +13,7 @@ The benefits of using the CDL include:
 
 * Less implementation effort for developers: integration of a single library gives support for a range of input devices
 * The flexibility to include support for non-Wacom devices in an application
-* The freedom to take full advantage of the WILL™ digital ink ecosystem to provide high quality digital ink rendering without sacrificing the value of raw pen data needed in processes such as signature verification
+* The freedom to take full advantage of the WILLâ„¢ digital ink ecosystem to provide high quality digital ink rendering without sacrificing the value of raw pen data needed in processes such as signature verification
 * A generic interface relieves the application code from direct control of the connected hardware
 
 Using the library you can:
